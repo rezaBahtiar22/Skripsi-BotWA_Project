@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Wa web js session & cache
+.wwebjs_auth/
+.wwebjs_cache/
+
+# environment
+.env
+
+# 
+.vscode/
