@@ -52,8 +52,3 @@ Sesuai dengan saran pada laporan penelitian, sistem ini dapat dikembangkan lebih
 * **Metrik Evaluasi Lanjutan:** Penambahan analisis ROC-AUC dan *error analysis* untuk identifikasi kelemahan sistem secara spesifik.
 * **Feedback Loop:** Penambahan mekanisme umpan balik dari pengguna untuk melatih ulang model agar lebih adaptif.
 * **Privasi & Keamanan:** Penerapan enkripsi dan mekanisme anonimisasi data untuk menjaga privasi pesan pengguna.
-
----
-**Dibuat oleh:** Reza Bahtiar Saputra  
-**Program Studi:** Teknologi Informasi  
-**Universitas Bumigora**
