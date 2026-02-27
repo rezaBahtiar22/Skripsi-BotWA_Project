@@ -8,6 +8,9 @@ Repositori ini berisi kode sumber untuk proyek skripsi berjudul **"Implementasi 
 
 > **Catatan Peneliti:** Hasil penelitian dan pengembangan sistem ini masih jauh dari kata sempurna. Terdapat berbagai keterbatasan baik dari sisi dataset maupun cakupan fitur, sehingga proyek ini sangat terbuka untuk kritik, saran, dan pengembangan lebih lanjut.
 
+## 📊 Dataset
+* **Sumber Data:** Dataset utama yang digunakan dalam penelitian ini bersumber dari [Dataset Klasifikasi SMS Spam Bahasa Indonesia](https://yudiwbs.wordpress.com/2018/08/05/dataset-klasifikasi-bahasa-indonesia-sms-spam-klasifikasi-teks-dengan-scikit-learn/) oleh **Yudi Widianto**.
+
 ## 📌 Fitur Utama
 * **Klasifikasi 3 Kategori:** Sistem mampu membedakan pesan ke dalam kategori **Penipuan**, **Promosi** (keduanya dianggap Spam), dan **Normal**.
 * **Peringatan Sistem:** Memberikan notifikasi peringatan otomatis jika pesan yang masuk terindikasi sebagai spam.
