@@ -15,10 +15,9 @@ Repositori ini berisi kode sumber untuk proyek skripsi berjudul **"Implementasi 
 * **Efisiensi Performa:** Model Machine Learning dilatih di Google Colab dan diekspor menjadi file `.pkl`. Hal ini memungkinkan aplikasi berjalan di VS Code tanpa perlu melakukan proses training ulang yang berat.
 
 ## 📸 Demo Aplikasi
-*(Opsional: Tambahkan screenshot hasil deteksi bot Anda di sini agar lebih informatif)*
 | Deteksi Pesan Spam | Deteksi Pesan Normal |
 | :---: | :---: |
-| ![Hasil spam pada WhatsApp](./img/hasil-deteksi-pada-whatsApp.png) | ![Hasil pada terminal](./img/hasil-pada-terminal.png) |
+| ![Hasil spam pada WhatsApp](./img/hasil-deteksi-pada-whatsApp.jpeg) | ![Hasil pada terminal](./img/hasil-pada-terminal.png) |
 
 ## 🛠️ Persyaratan Sistem (Requirements)
 ### Machine Learning & Data Science (Python)
