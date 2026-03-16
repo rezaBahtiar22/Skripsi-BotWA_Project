@@ -18,7 +18,7 @@ Repositori ini berisi kode sumber untuk proyek skripsi berjudul **"Implementasi 
 * **Efisiensi Performa:** Model Machine Learning dilatih di Google Colab dan diekspor menjadi file `.pkl`. Hal ini memungkinkan aplikasi berjalan di VS Code tanpa perlu melakukan proses training ulang yang berat.
 
 ## 📸 Demo Aplikasi
-| Deteksi Pesan Spam | Deteksi Pesan Normal |
+| hasil Pada WhatsApp | Hasil Pada Terminal |
 | :---: | :---: |
 | ![Hasil spam pada WhatsApp](./img/hasil-deteksi-pada-whatsApp.jpeg) | ![Hasil pada terminal](./img/hasil-pada-terminal.png) |
 
